@@ -1,1 +1,2 @@
-# lowess_loess_demo
+This is the code from the StatQuest...
+* Fitting a curve to data, aka lowess, aka loess: https://youtu.be/Vf7oJ6z2LCc
